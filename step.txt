@@ -1,0 +1,5 @@
+open anaconda prompt
+python -m pip install --upgrade pip
+python -m pip install jupyter
+python -m pip install SimpleWebSocketServer
+jupyter notebook
